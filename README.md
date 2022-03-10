@@ -1,3 +1,8 @@
 # aws-terraform-ansible
-Building the project
-The project is a simple multi-module Maven project. To build the whole project, just run mvn install from the root directory.
+This tutorial is divided into 2 parts.
+Create the Kubernetes cluster using Terraform
+Deploy the Kubernetes application using Ansible
+Prerequisites:
+AWS Account
+Basic understanding of AWS, Terraform, Ansible & Kubernetes
+GitHub Account
